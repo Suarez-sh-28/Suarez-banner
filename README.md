@@ -54,9 +54,9 @@ echo -e '\033[1;32m\n
        ░╚═══██╗██║░░░██║██╔══██║██╔══██╗██╔══╝░░██╔══╝░░      ░╚═══██╗██╔══██║
        ██████╔╝╚██████╔╝██║░░██║██║░░██║███████╗███████╗      ██████╔╝██║░░██║
        ╚═════╝░░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝      ╚═════╝░╚═╝░░╚═╝\n\033[0m'
-printf " $A[$b1+$A]${b1} Creador:$a     Suarez.sh\n"
+printf " $A[$b1+$A]${b1} Creador:$a     Suarez-sh-28\n"
 printf " $A[$b1+$A]${b1} Herramienta:$a Suarez-banner\n"
-printf " $A[$b1+$A]${b1} GitHub:$a      https://github.com/Suarez-sh\n"
+printf " $A[$b1+$A]${b1} GitHub:$a      https://github.com/Suarez-sh-28\n"
 printf " $A[$b1+$A]${b1} YouTube:$a     https://youtube.com/channel/UCwbwz0tBif1tel_dwNSbBQQ$b\n\n"
 }
 b2() {
@@ -70,9 +70,9 @@ echo -e "\033[1;32m
        ░╚═══██╗██║░░░██║██╔══██║██╔══██╗██╔══╝░░██╔══╝░░      ░╚═══██╗██╔══██║
        ██████╔╝╚██████╔╝██║░░██║██║░░██║███████╗███████╗      ██████╔╝██║░░██║
        ╚═════╝░░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝      ╚═════╝░╚═╝░░╚═╝\n\033[0m"
-printf "$A[$b1+$A]${b1} Creador:$a     Suarez.sh\n"
+printf "$A[$b1+$A]${b1} Creador:$a     Suarez-sh-28\n"
 printf "$A[$b1+$A]${b1} Herramienta:$a Suarez-banner\n"
-printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/Suarez-sh\n"
+printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/Suarez-sh-28\n"
 printf "$A[$b1+$A]${b1} YouTube:$a     http://youtube.com/channel/UCwbwz0tBif1tel_dwNSbBQQ$b\n\n"
 }
 
