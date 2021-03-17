@@ -1,7 +1,7 @@
-
 _Suarez-banner_
 
 Es un términal para la bienvenida en termux
+ que te permite poner tu propio banner
 
 INSTALACIÓN:
 
