@@ -1,3 +1,4 @@
+
 #!/bin/bash
 g="${b}\033[1;30m"
 b="\033[0m"
@@ -83,10 +84,6 @@ sleep 0.8
 pkg install nano
 ;;
 *)
-echo -e "$r[-]\033[0m  Esta Funcion Necesita Conexion A Internet."
-exit
-esac
-esac
 echo -e "${v}Pega el banner y cuando termines das 'CTRL X' y 'Y'$b"
 read -p "Presiona Enter Para Continuar: "
 nano .Banner
@@ -250,7 +247,6 @@ exit
 echo -e "$b"
 exit
 esac
-
 
 
 
