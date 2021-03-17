@@ -1,21 +1,22 @@
 
-Suarez-banner
+_Suarez-banner_
 
 Es un términal para la bienvenida en termux
 
 INSTALACIÓN:
 
-apt update && apt -y upgrade
+$ apt update && apt -y upgrade
 
-pkg install -y git
+$ pkg install -y git
 
-pkg install -y python2
+$ pkg install -y python2
 
-termux-setup-storage
+$ termux-setup-storage
 
-git clone https://github.com/Suarez-sh-28/Suarez-banner
+$ git clone https://github.com/Suarez-sh-28/Suarez-banner
 
-cd Suarez-banner
-chmod +x *
+$ cd Suarez-banner
 
-bash Suarez-banner.sh
+$ chmod +x *
+
+$ bash Suarez-banner.sh
