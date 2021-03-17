@@ -94,7 +94,6 @@ echo -e " $r[-]$b1 Banner invalido..!$b"
 sleep 0.5
 banner
 esac
-}
 color() {
 b1
 sleep 0.5
